@@ -4,4 +4,4 @@ Skyboxes can do a lot to make a world feel more visually interesting, and more a
 
 Video tutorial:
 
-**[Pending]**
+[![YouTube](https://i.ytimg.com/vi/bNTnRO1HJr0/hqdefault.jpg)](https://youtu.be/bNTnRO1HJr0)
